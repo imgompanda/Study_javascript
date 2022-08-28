@@ -21,3 +21,5 @@ let orange = {
 };
 
 console.log(orange);
+
+orange;
